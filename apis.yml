@@ -41,6 +41,8 @@ network:
     url: https://raw.githubusercontent.com/api-evangelist/defer/refs/heads/main/apis.yml
   - name: Durable Functions
     url: https://raw.githubusercontent.com/api-evangelist/durable-functions/refs/heads/main/apis.yml
+  - name: Flyte
+    url: https://raw.githubusercontent.com/api-evangelist/flyte/refs/heads/main/apis.yml
   - name: Google Cloud Workflows
     url: https://raw.githubusercontent.com/api-evangelist/google-cloud-workflows/refs/heads/main/apis.yml
   - name: Hatchet
@@ -63,6 +65,8 @@ network:
     url: https://raw.githubusercontent.com/api-evangelist/make/refs/heads/main/apis.yml
   - name: n8n
     url: https://raw.githubusercontent.com/api-evangelist/n8n/refs/heads/main/apis.yml
+  - name: Nected
+    url: https://raw.githubusercontent.com/api-evangelist/nected/refs/heads/main/apis.yml
   - name: Netflix Conductor
     url: https://raw.githubusercontent.com/api-evangelist/netflix-conductor/refs/heads/main/apis.yml
   - name: Node-RED
