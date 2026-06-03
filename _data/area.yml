@@ -1,0 +1,157 @@
+meta:
+  name: Workflow Automation
+  description: This is the index of workflow automation service and tooling repos
+    being tracked by the API Evangelist network.
+  tags:
+  - Workflow Automation
+  portal: null
+  github: null
+  repo: workflow-automation
+services_tools:
+- name: Activepieces
+  repo: https://github.com/api-evangelist/activepieces
+  apisio: https://providers.apis.io/providers/activepieces/
+- name: Airflow
+  repo: https://github.com/api-evangelist/airflow
+  apisio: https://providers.apis.io/providers/airflow/
+- name: Albato
+  repo: https://github.com/api-evangelist/albato
+  apisio: https://providers.apis.io/providers/albato/
+- name: Alloy Automation
+  repo: https://github.com/api-evangelist/alloy-automation
+  apisio: https://providers.apis.io/providers/alloy-automation/
+- name: Appsmith
+  repo: https://github.com/api-evangelist/appsmith
+  apisio: https://providers.apis.io/providers/appsmith/
+- name: Argo Workflows
+  repo: https://github.com/api-evangelist/argo-workflows
+  apisio: https://providers.apis.io/providers/argo-workflows/
+- name: Automatisch
+  repo: https://github.com/api-evangelist/automatisch
+  apisio: https://providers.apis.io/providers/automatisch/
+- name: Automation Anywhere
+  repo: https://github.com/api-evangelist/automation-anywhere
+  apisio: https://providers.apis.io/providers/automation-anywhere/
+- name: Budibase
+  repo: https://github.com/api-evangelist/budibase
+  apisio: https://providers.apis.io/providers/budibase/
+- name: Cadence
+  repo: https://github.com/api-evangelist/cadence
+  apisio: https://providers.apis.io/providers/cadence/
+- name: Camunda
+  repo: https://github.com/api-evangelist/camunda
+  apisio: https://providers.apis.io/providers/camunda/
+- name: Dagster
+  repo: https://github.com/api-evangelist/dagster
+  apisio: https://providers.apis.io/providers/dagster/
+- name: Defer
+  repo: https://github.com/api-evangelist/defer
+  apisio: https://providers.apis.io/providers/defer/
+- name: Durable Functions
+  repo: https://github.com/api-evangelist/durable-functions
+  apisio: https://providers.apis.io/providers/durable-functions/
+- name: Flyte
+  repo: https://github.com/api-evangelist/flyte
+  apisio: https://providers.apis.io/providers/flyte/
+- name: Google Cloud Workflows
+  repo: https://github.com/api-evangelist/google-cloud-workflows
+  apisio: https://providers.apis.io/providers/google-cloud-workflows/
+- name: Hatchet
+  repo: https://github.com/api-evangelist/hatchet
+  apisio: https://providers.apis.io/providers/hatchet/
+- name: Huginn
+  repo: https://github.com/api-evangelist/huginn
+  apisio: https://providers.apis.io/providers/huginn/
+- name: Inngest
+  repo: https://github.com/api-evangelist/inngest
+  apisio: https://providers.apis.io/providers/inngest/
+- name: Integrately
+  repo: https://github.com/api-evangelist/integrately
+  apisio: https://providers.apis.io/providers/integrately/
+- name: Kestra
+  repo: https://github.com/api-evangelist/kestra
+  apisio: https://providers.apis.io/providers/kestra/
+- name: Latenode
+  repo: https://github.com/api-evangelist/latenode
+  apisio: https://providers.apis.io/providers/latenode/
+- name: LittleHorse
+  repo: https://github.com/api-evangelist/littlehorse
+  apisio: https://providers.apis.io/providers/littlehorse/
+- name: Logic Apps
+  repo: https://github.com/api-evangelist/logic-apps
+  apisio: https://providers.apis.io/providers/logic-apps/
+- name: Make
+  repo: https://github.com/api-evangelist/make
+  apisio: https://providers.apis.io/providers/make/
+- name: n8n
+  repo: https://github.com/api-evangelist/n8n
+  apisio: https://providers.apis.io/providers/n8n/
+- name: Nected
+  repo: https://github.com/api-evangelist/nected
+  apisio: https://providers.apis.io/providers/nected/
+- name: Netflix Conductor
+  repo: https://github.com/api-evangelist/netflix-conductor
+  apisio: https://providers.apis.io/providers/netflix-conductor/
+- name: Node-RED
+  repo: https://github.com/api-evangelist/node-red
+  apisio: https://providers.apis.io/providers/node-red/
+- name: Orkes
+  repo: https://github.com/api-evangelist/orkes
+  apisio: https://providers.apis.io/providers/orkes/
+- name: Pabbly Connect
+  repo: https://github.com/api-evangelist/pabbly-connect
+  apisio: https://providers.apis.io/providers/pabbly-connect/
+- name: Pipedream
+  repo: https://github.com/api-evangelist/pipedream
+  apisio: https://providers.apis.io/providers/pipedream/
+- name: Power Automate
+  repo: https://github.com/api-evangelist/power-automate
+  apisio: https://providers.apis.io/providers/power-automate/
+- name: Prefect
+  repo: https://github.com/api-evangelist/prefect
+  apisio: https://providers.apis.io/providers/prefect/
+- name: Quirrel
+  repo: https://github.com/api-evangelist/quirrel
+  apisio: https://providers.apis.io/providers/quirrel/
+- name: Restate
+  repo: https://github.com/api-evangelist/restate
+  apisio: https://providers.apis.io/providers/restate/
+- name: Retool
+  repo: https://github.com/api-evangelist/retool
+  apisio: https://providers.apis.io/providers/retool/
+- name: Robocorp
+  repo: https://github.com/api-evangelist/robocorp
+  apisio: https://providers.apis.io/providers/robocorp/
+- name: Serverless Workflow
+  repo: https://github.com/api-evangelist/serverless-workflow
+  apisio: https://providers.apis.io/providers/serverless-workflow/
+- name: ServiceNow Flow Designer
+  repo: https://github.com/api-evangelist/servicenow-flow-designer
+  apisio: https://providers.apis.io/providers/servicenow-flow-designer/
+- name: Step Functions
+  repo: https://github.com/api-evangelist/step-functions
+  apisio: https://providers.apis.io/providers/step-functions/
+- name: Temporal
+  repo: https://github.com/api-evangelist/temporal
+  apisio: https://providers.apis.io/providers/temporal/
+- name: Tray.io
+  repo: https://github.com/api-evangelist/tray-io
+  apisio: https://providers.apis.io/providers/tray-io/
+- name: Trigger.dev
+  repo: https://github.com/api-evangelist/trigger-dev
+  apisio: https://providers.apis.io/providers/trigger-dev/
+- name: UiPath
+  repo: https://github.com/api-evangelist/uipath
+  apisio: https://providers.apis.io/providers/uipath/
+- name: Windmill
+  repo: https://github.com/api-evangelist/windmill
+  apisio: https://providers.apis.io/providers/windmill/
+- name: Zapier
+  repo: https://github.com/api-evangelist/zapier
+  apisio: https://providers.apis.io/providers/zapier/
+- name: Zeebe
+  repo: https://github.com/api-evangelist/zeebe
+  apisio: https://providers.apis.io/providers/zeebe/
+features: []
+use_cases: []
+integrations: []

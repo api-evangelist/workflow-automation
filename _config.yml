@@ -1,0 +1,17 @@
+title: Workflow Automation
+description: This is the index of workflow automation service and tooling repos being
+  tracked by the API Evangelist network.
+url: https://workflow-automation.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
