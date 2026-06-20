@@ -3,7 +3,7 @@ name: Workflow Automation
 description: >-
   This is the index of workflow automation service and tooling repos being tracked by the API Evangelist network.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Workflow Automation
 url: >-
