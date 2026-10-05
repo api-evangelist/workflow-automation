@@ -1,5 +1,6 @@
 aid: workflow-automation
 name: Workflow Automation
+kind: topic
 description: >-
   This is the index of workflow automation service and tooling repos being tracked by the API Evangelist network.
 type: Index
